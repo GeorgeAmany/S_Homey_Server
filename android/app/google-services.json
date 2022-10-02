@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103343977444",
+    "project_id": "shomey-test",
+    "storage_bucket": "shomey-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103343977444:android:000d28376083e9ba43cdf1",
+        "android_client_info": {
+          "package_name": "com.example.s_homey_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103343977444-d62fpj7mm05bb1omvpkbpr8khc56k4jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Qx3QyKLKti5GRsG42NSmQ2WokHe96Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103343977444-d62fpj7mm05bb1omvpkbpr8khc56k4jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
